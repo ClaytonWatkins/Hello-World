@@ -1,7 +1,7 @@
 # Hello-World
-DGM 1610
+DGM 1660 Spring 2018
 Story-Clayton-edits
-Clayton Watkins, 38, male.
+Clayton Watkins, 39, male.
 Retired Marine.
 Bachelor's Organizational Management.
 Master's Business Administration.
